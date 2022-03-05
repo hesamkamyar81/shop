@@ -1,2 +1,1 @@
-# shop
-shop
+store created with php and mysql
